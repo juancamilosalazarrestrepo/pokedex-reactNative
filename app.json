@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.juancamilosalazar.pokedexreactnative"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "acb904ff-4855-4d9a-a2e3-f4c8de100150"
+      }
+    },
+    "owner": "juancamilosalazar"
   }
 }
